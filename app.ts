@@ -1,4 +1,4 @@
-console.log("Hello Friends!");
+console.log("Hello World!");
 
 type TVehicle={
     model: string,
