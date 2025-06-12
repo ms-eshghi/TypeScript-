@@ -65,15 +65,6 @@ console.log("Boat:",Boat);
 console.log("Plan:",Plan);
 
 
-class items{
-
-}
-
-function add(name:string):string{
-    return `Hello ${name}`
-}
-
-
 class VehicleService<T>{
     private items: T[]=[];
 
