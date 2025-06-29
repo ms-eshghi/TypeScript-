@@ -1,5 +1,5 @@
 "use strict";
-console.log("Hello Friends!");
+console.log("Hello World!");
 let Vehicle = {
     model: "Boring generic vehicle",
     color: "Red",
@@ -32,11 +32,6 @@ let Boat = {
 console.log("Car:", Car);
 console.log("Boat:", Boat);
 console.log("Plan:", Plan);
-class items {
-}
-function add(name) {
-    return `Hello ${name}`;
-}
 class VehicleService {
     items = [];
     add(item) {
