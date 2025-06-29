@@ -59,8 +59,8 @@ let Boat: IBoat = {
 };
 
 console.log(Car);
-console.log(Boat);
 console.log(Plan);
+console.log(Boat);
 
 class VehicleService<T> {
   private items: T[] = [];
